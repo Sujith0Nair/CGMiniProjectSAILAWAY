@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graphics_asgn1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphics_asgn1">
+				<Option output="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug/graphics_asgn1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/IL"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphics_asgn1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphics_asgn1/fast">
+				<Option output="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug/graphics_asgn1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/IL"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphics_asgn1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sujith/Documents/Computer\ Graphics/Mini\ Project/SAILAWAY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/background.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/background.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/barrel.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/barrel.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/boat.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/boat.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/color.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/details.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/details.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/engine.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/engine.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/input.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/main.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/main.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/map.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/map.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/models.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/monster.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/monster.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/nonedit.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/numbers.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/numbers.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/other_handlers.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/rock.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/rock.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/timer.cpp">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/timer.h">
+			<Option target="graphics_asgn1"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/Sample_GL.frag">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/src/Sample_GL.vert">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

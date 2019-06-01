@@ -1,0 +1,3 @@
+/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug/CMakeFiles/graphics_asgn1.dir
+/home/sujith/Documents/Computer Graphics/Mini Project/SAILAWAY/cmake-build-debug/CMakeFiles/edit_cache.dir
